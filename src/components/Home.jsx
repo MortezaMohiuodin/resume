@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import html2pdf from 'html2pdf.js'
-import profile from '../assets/profile.png'
+import profile from '../assets/profile.jpg'
 function Home(){
     const defaultState = localStorage.getItem("dark-mode");
     const [theme,setTheme] = useState(defaultState)
@@ -37,7 +37,7 @@ function Home(){
                                 <h1 className="home_title">LEA <b>GALLIER</b></h1>
                                 <h3 className="home_profession">Analyst developer</h3>
                                 <div>
-                                    <a download="" id="download-button" className="home_button-movil">Download</a>
+                                    {/* <a download="" id="download-button" className="home_button-movil">Download</a> */}
                                 </div>
                             </div>
 
