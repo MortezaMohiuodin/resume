@@ -540,11 +540,14 @@ img {
 .education_year,
 .experience_year {
     font-size: var(--smaller-font-size);
+    padding-bottom: 8px;
+    display: inline-block;
+    border-bottom: 1px dotted rgb(172, 172, 172);
 }
 
 .experience_description {
     color: var(--text-color-light);
-    font-size: var(--smaller-font-size);
+    font-size: var(--normal-font-size);
 }
 
 /* Skills */
@@ -556,7 +559,7 @@ img {
     padding-left: 2rem;
 }
 .skills_content span{
-    background-color: rgb(214, 214, 214);
+    background-color: var(--container-color);
     border-radius: 4px;
     padding: 2px 8px;
 }
