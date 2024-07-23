@@ -15,10 +15,10 @@ function Experience(){
                                     <span className="experience_company">Qonsalban | Qom</span>
                                     <span className="experience_year">Jan 2024 , May 2024</span>
                                     <p className="experience_description">
-                                    Built and developed UI for a human resource management system with various subsystems and automation features.
-                                    Collaborated with UX/UI designers to enhance the user experience.
-                                    Conducted daily code maintenance and issue debugging.
+                                    &#8226; Built and developed UI for a human resource management system with various subsystems and automation features.
                                     </p>
+                                    <p className="experience_description"> &#8226; Collaborated with UX/UI designers to enhance the user experience.
+                                    Conducted daily code maintenance and issue debugging.</p>
                                 </div>
                             </div>
                             <div className="experience_content">
@@ -31,7 +31,10 @@ function Experience(){
                                     <span className="experience_company">Karsu | Qom</span>
                                     <span className="experience_year">March 2023 , Dec 2023</span>
                                     <p className="experience_description">
-                                        Built and developed UI for a human resource management system with various subsystems and automation features.
+                                    &#8226; Built and developed UI for a human resource management system with various subsystems and automation features.
+                                    </p>
+                                    <p className="experience_description">
+                                    &#8226; 
                                         Collaborated with UX/UI designers to enhance the user experience.
                                         Conducted daily code maintenance and issue debugging.
                                     </p>
@@ -47,7 +50,10 @@ function Experience(){
                                     <span className="experience_company">Pioneer Games | Tehran</span>
                                     <span className="experience_year">July 2021 , Jan 2022</span>
                                     <p className="experience_description">
-                                        Developed cryptocurrency exchange website and user dashboard with Next , Redux , GraphQL and MUI.
+                                    &#8226;   Developed cryptocurrency exchange website and user dashboard with Next , Redux , GraphQL and MUI.
+                                    </p>
+                                    <p className="experience_description">
+                                    &#8226;   
                                         Created a marketplace for NFTs using Next , Redux and GraphQL
                                         Implemented a monorepo structure for shared code and consistency across projects.
                                     </p>
@@ -63,8 +69,10 @@ function Experience(){
                                     <span className="experience_company">Mom Fertility Center | Tehran</span>
                                     <span className="experience_year">July 2020 , Apr 2021</span>
                                     <p className="experience_description">
-                                        
-                                        Designed and implemented CMS UI for the main website.
+                                    &#8226;    Designed and implemented CMS UI for the main website.
+                                    </p>
+                                    <p className="experience_description">
+                                    &#8226;   
                                         Refactored components for improved reusability, reducing repetitive code by 50%.
                                     </p>
                                 </div>
@@ -78,10 +86,10 @@ function Experience(){
                                     <span className="experience_company">Signal Co | Qom</span>
                                     <span className="experience_year">May 2018 , May 2020</span>
                                     <p className="experience_description">
-                                        Developed UI components using React with MVVM architecture.
-                                        Collaborated on resolving critical SEO issues and optimizing performance.
-                                        Implemented error tracking and monitoring for beta projects via Sentry.
+                                        &#8226; Developed UI components using React with MVVM architecture.
                                     </p>
+                                    <p className="experience_description">&#8226; Collaborated on resolving critical SEO issues and optimizing performance.</p>
+                                    <p className="experiance_description">&#8226; Implemented error tracking and monitoring for beta projects via Sentry.</p>
                                 </div>
                             </div>
                         </div>
@@ -91,3 +99,5 @@ function Experience(){
 }
 
 export default Experience
+
+

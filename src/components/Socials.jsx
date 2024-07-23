@@ -9,7 +9,7 @@ function Socials(){
                                 <i className="fa-solid fa-location-dot home_icon"></i> Qom - Iran
                             </a>
                             <a  href="mailto:mortezamohiuodin@gmail.com" target="_blank" className="social_link">
-                                <i className="fa-solid fa-envelope home_icon"></i> mortezamohiuodin@gmail.com
+                                <i className="fa-solid fa-envelope home_icon"></i> mortezamohiuodin@gmail
                             </a>
                             <a href="tel:+989336492504" target="_blank" className="social_link">
                                 <i className="fa-brands fa-linkedin social_icon"></i> (+98) 933-649-2504

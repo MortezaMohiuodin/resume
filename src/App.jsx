@@ -10,7 +10,8 @@ import Education from './components/Education'
 import Showcases from './components/Showcases'
 
 function App() {
-
+  document.body.classList.add("scale-cv");
+  
   return (
     <>
       <div>
@@ -26,8 +27,8 @@ function App() {
               <Languages/>
             </div>
             <div className="resume_right">
-              <Experience/>
               <Showcases/>
+              <Experience/>
             </div>
           </div>
         </main>
