@@ -6,9 +6,8 @@ import Skills from './components/Skills'
 import Socials from './components/Socials'
 import Languages from './components/Languages'
 import Experience from './components/Experience'
-import Certificates from './components/Certificates'
 import Education from './components/Education'
-import Interests from './components/Interests'
+import Showcases from './components/Showcases'
 
 function App() {
 
@@ -28,6 +27,7 @@ function App() {
             </div>
             <div className="resume_right">
               <Experience/>
+              <Showcases/>
             </div>
           </div>
         </main>

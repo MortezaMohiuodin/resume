@@ -678,6 +678,13 @@ img {
     bottom: 5rem;
 }
 
+.showcases .list{
+    margin-left: 20px;
+    display: flex;
+    gap : 5px;
+    flex-direction: column;
+}
+
 /* Screen for small phones  */
 
 @media screen and (max-width: 320px) {
