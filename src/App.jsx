@@ -23,13 +23,11 @@ function App() {
               <Socials/>
               <Profile/>
               <Skills/>
+              <Education/>
               <Languages/>
             </div>
             <div className="resume_right">
               <Experience/>
-              <Certificates/>
-              <Education/>
-              <Interests/>
             </div>
           </div>
         </main>

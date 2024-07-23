@@ -2,12 +2,12 @@ function Profile(){
     return (
         <>
               <section className="profile section" id="profile">
-                        <h2 className="section-title">Profile</h2>
+                        <h2 className="section-title">Summary</h2>
 
                         <p className="profile_description">
-                            I'm actually a student in computer science at the University of Le Havre Normandie. This year is
-                            my last year of master's degree in computer science at the university. But this year I also
-                            joined the IES Ingénierie team by becoming an analyst developer in work-study training.
+                            Experienced Frontend Developer with over 6 years of software development expertise.
+                            Proficient in building client-side and server-side UI's, implementing modular design patterns, and skilled in Vue and Nuxt.
+                            Passionate about creating robust and user-friendly software solutions. Thriving in an agile environment.
                         </p>
                     </section>
         </>

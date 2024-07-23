@@ -7,17 +7,17 @@ function Languages(){
                         <div className="languages_container">
                             <ul className="languages_content bd-grid">
                                 <li className="languages_name">
-                                    <span className="languages_text">French</span>
+                                    <span className="languages_text">English</span>
                                     <span className="languages_stars">
                                         <i className="fa-solid fa-star"></i>
                                         <i className="fa-solid fa-star"></i>
                                         <i className="fa-solid fa-star"></i>
                                         <i className="fa-solid fa-star"></i>
-                                        <i className="fa-solid fa-star"></i>
+                                        <i className="fa-solid fa-star languages_stars_checked"></i>
                                     </span>
                                 </li>
                                 <li className="languages_name">
-                                    <span className="languages_text">English</span>
+                                    <span className="languages_text">Arabic</span>
                                     <span className="languages_stars">
                                         <i className="fa-solid fa-star"></i>
                                         <i className="fa-solid fa-star"></i>

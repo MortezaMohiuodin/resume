@@ -11,12 +11,60 @@ function Experience(){
                                     <span className="experience_line"></span>
                                 </div>
                                 <div className="experience_data bd-grid">
-                                    <h3 className="experience_title">ANALYST PROGRAMMER</h3>
-                                    <span className="experience_company">Sandwichcourse | IES Ingénierie - France</span>
-                                    <span className="experience_year">October 2022 - present</span>
+                                    <h3 className="experience_title">Senior Frontend Developer</h3>
+                                    <span className="experience_company">Qonsalban | Qom</span>
+                                    <span className="experience_year">Jan 2024 , May 2024</span>
                                     <p className="experience_description">
-                                        Work in this company dedicating the best responsibility in the area that
-                                        corresponds, delivering the best results for the company and improving productivity.
+                                    Built and developed UI for a human resource management system with various subsystems and automation features.
+                                    Collaborated with UX/UI designers to enhance the user experience.
+                                    Conducted daily code maintenance and issue debugging.
+                                    </p>
+                                </div>
+                            </div>
+                            <div className="experience_content">
+                                <div className="experience_time">
+                                    <span className="experience_rounder"></span>
+                                    <span className="experience_line"></span>
+                                </div>
+                                <div className="experience_data bd-grid">
+                                    <h3 className="experience_title">Senior Frontend Developer</h3>
+                                    <span className="experience_company">Karsu | Qom</span>
+                                    <span className="experience_year">March 2023 , Dec 2023</span>
+                                    <p className="experience_description">
+                                        Built and developed UI for a human resource management system with various subsystems and automation features.
+                                        Collaborated with UX/UI designers to enhance the user experience.
+                                        Conducted daily code maintenance and issue debugging.
+                                    </p>
+                                </div>
+                            </div>
+                            <div className="experience_content">
+                            <div className="experience_time">
+                                    <span className="experience_rounder"></span>
+                                    <span className="experience_line"></span>
+                                </div>
+                                <div className="experience_data bd-grid">
+                                    <h3 className="experience_title">Frontend Developer</h3>
+                                    <span className="experience_company">Pioneer Games | Tehran</span>
+                                    <span className="experience_year">July 2021 , Jan 2022</span>
+                                    <p className="experience_description">
+                                        Developed cryptocurrency exchange website and user dashboard with Next , Redux , GraphQL and MUI.
+                                        Created a marketplace for NFTs using Next , Redux and GraphQL
+                                        Implemented a monorepo structure for shared code and consistency across projects.
+                                    </p>
+                                </div>
+                            </div>
+                            <div className="experience_content">
+                                <div className="experience_time">
+                                    <span className="experience_rounder"></span>
+                                    <span className="experience_line"></span>
+                                </div>
+                                <div className="experience_data bd-grid">
+                                    <h3 className="experience_title">Frontend Developer</h3>
+                                    <span className="experience_company">Mom Fertility Center | Tehran</span>
+                                    <span className="experience_year">July 2020 , Apr 2021</span>
+                                    <p className="experience_description">
+                                        Designed and implemented CMS UI for the main website.
+                                        Refactored components for improved reusability, reducing repetitive code by 50%.
                                     </p>
                                 </div>
                             </div>
@@ -25,12 +73,13 @@ function Experience(){
                                     <span className="experience_rounder"></span>
                                 </div>
                                 <div className="experience_data bd-grid">
-                                    <h3 className="experience_title">ANALYST PROGRAMMER</h3>
-                                    <span className="experience_company">Internship | IES Ingénierie - France</span>
-                                    <span className="experience_year">April 2021 - June 2021</span>
+                                    <h3 className="experience_title">Intern Frontend Developer</h3>
+                                    <span className="experience_company">Signal Co | Qom</span>
+                                    <span className="experience_year">May 2018 , May 2020</span>
                                     <p className="experience_description">
-                                        Work in this company dedicating the best responsibility in the area that
-                                        corresponds, delivering the best results for the company and improving productivity.
+                                        Developed UI components using React with MVVM architecture.
+                                        Collaborated on resolving critical SEO issues and optimizing performance.
+                                        Implemented error tracking and monitoring for beta projects via Sentry.
                                     </p>
                                 </div>
                             </div>

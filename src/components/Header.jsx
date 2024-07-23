@@ -5,7 +5,7 @@ function Header(){
         <>
            <header className="l-header" id="header">
             <nav className="nav bd-container">
-                <a href="#" className="nav_logo">Léa GALLIER</a>
+                <a href="#" className="nav_logo">Morteza Mohiuodin</a>
                 <div className={`nav_menu ${show && 'show-menu'}`} id="nav-menu">
                     <ul className="nav_list">
 
