@@ -33,11 +33,7 @@ function Experience(){
                                     <p className="experience_description">
                                     &#8226; Built and developed UI for a human resource management system with various subsystems and automation features.
                                     </p>
-                                    <p className="experience_description">
-                                    &#8226; 
-                                        Collaborated with UX/UI designers to enhance the user experience.
-                                        Conducted daily code maintenance and issue debugging.
-                                    </p>
+                                 
                                 </div>
                             </div>
                             <div className="experience_content">
@@ -89,7 +85,6 @@ function Experience(){
                                         &#8226; Developed UI components using React with MVVM architecture.
                                     </p>
                                     <p className="experience_description">&#8226; Collaborated on resolving critical SEO issues and optimizing performance.</p>
-                                    <p className="experiance_description">&#8226; Implemented error tracking and monitoring for beta projects via Sentry.</p>
                                 </div>
                             </div>
                         </div>
