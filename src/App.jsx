@@ -26,7 +26,7 @@ function App() {
                 <Socials/>
                 <Profile/>
                 <Skills/>
-                <Education/>
+                
               
               </div>
               <div className="resume_right">
@@ -35,6 +35,7 @@ function App() {
             </div>
             <div className="resume" >
               <div className="resume_left">
+              <Education/>
               <Languages/>
               <Showcases/>
               </div>
