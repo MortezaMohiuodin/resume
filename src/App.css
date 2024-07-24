@@ -77,6 +77,7 @@ body.dark-theme {
     --container-color: #212121;
     --container-color-alt: #181616;
     --body-color: #2B2B2B;
+    --text-color-light: #cacaca;
 }
 
 /* Generate PDF Button */
