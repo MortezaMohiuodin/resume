@@ -11,7 +11,7 @@ function Experience(){
                                     <span className="experience_line"></span>
                                 </div>
                                 <div className="experience_data bd-grid">
-                                    <h3 className="experience_title">Senior Frontend Developer</h3>
+                                    <h3 className="experience_title">Frontend Developer</h3>
                                     <span className="experience_company">Qonsalban | Qom</span>
                                     <span className="experience_year">Jan 2024 , May 2024</span>
                                     <p className="experience_description">
@@ -27,7 +27,7 @@ function Experience(){
                                     <span className="experience_line"></span>
                                 </div>
                                 <div className="experience_data bd-grid">
-                                    <h3 className="experience_title">Senior Frontend Developer</h3>
+                                    <h3 className="experience_title">Frontend Developer</h3>
                                     <span className="experience_company">Karsu | Qom</span>
                                     <span className="experience_year">March 2023 , Dec 2023</span>
                                     <p className="experience_description">

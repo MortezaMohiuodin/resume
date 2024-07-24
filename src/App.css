@@ -700,6 +700,12 @@ img {
 }
 .showcases .list a {
     color: var(--title-color);
+    font-weight: var(--font-medium);
+    font-size: var(--normal-font-size);
+}
+.showcases .list span {
+    display: block;
+    color: var(--text-color-light);
     font-size: var(--normal-font-size);
 }
 

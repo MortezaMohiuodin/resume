@@ -19,7 +19,14 @@ function Skills(){
                                  <span>Express</span>
                                  <span>Restful APIs </span>
                                  <span>Vite</span>
-                                 <span>Webpack</span>  
+                                 <span>Webpack</span>
+                                 <span>Code Documentation</span>  
+                                 <span>Application Structure</span>  
+                                 <span>Frontend testing (e2e/unit)</span>
+                                 <span>Performance Optimization</span>
+                                 <span>SSR</span>
+                                 <span>SPA</span>
+                                 <span>AI Coding Assistance</span>
                             </div>
                         </div>
 
