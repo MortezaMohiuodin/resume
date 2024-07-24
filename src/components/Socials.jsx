@@ -12,13 +12,13 @@ function Socials(){
                                 <i className="fa-solid fa-envelope home_icon"></i> mortezamohiuodin@gmail
                             </a>
                             <a href="tel:+989336492504" target="_blank" className="social_link">
-                                <i className="fa-brands fa-linkedin social_icon"></i> (+98) 933-649-2504
+                                <i className="fa-solid fa-phone social_icon"></i> (+98) 933-649-2504
                             </a>
                             <a href="https://github.com/MortezaMohiuodin" target="_blank" className="social_link">
-                                <i className="fa-brands fa-github social_icon"></i> MortezaMohiuodin
+                                <i className="fa-brands fa-github social_icon"></i> @MortezaMohiuodin
                             </a>
                             <a href="https://www.linkedin.com/in/mortezamohiuodin" target="_blank" className="social_link">
-                                <i className="fa-brands fa-linkedin social_icon"></i> Mortezamohiuodin
+                                <i className="fa-brands fa-linkedin social_icon"></i> @MortezaMohiuodin
                             </a>
                         </div>
                     </section>
