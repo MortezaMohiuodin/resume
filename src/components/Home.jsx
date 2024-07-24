@@ -34,7 +34,7 @@ function Home(){
 
                             <div className="home_data bd-grid">
                                 <img src={profile} alt="Icon picture" className="home_img" id="home-img"/>
-                                <h1 className="home_title">Moreza <b>Mohiuodin</b></h1>
+                                <h1 className="home_title">Morteza <b>Mohiuodin</b></h1>
                                 <h3 className="home_profession">Frontend Developer</h3>
                                
                                 <div>

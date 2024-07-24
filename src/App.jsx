@@ -22,22 +22,24 @@ function App() {
             <div className="resume" >
               <div className="resume_left">
                 <Home/>
+                <hr  style={{borderTop: 'dotted 1px',marginTop:-8,borderColor:'#ddd'}}/>
                 <Socials/>
                 <Profile/>
                 <Skills/>
                 <Education/>
+              
               </div>
               <div className="resume_right">
-                <Showcases/>
                 <Experience/>
               </div>
             </div>
             <div className="resume" >
               <div className="resume_left">
+              <Languages/>
+              <Showcases/>
               </div>
               <div className="resume_right">
                   <ExperienceExtra/>
-                  <Languages/>
               </div>
             </div>
           </div>

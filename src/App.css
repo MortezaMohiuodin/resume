@@ -698,8 +698,7 @@ img {
     flex-direction: column;
 }
 .showcases .list a {
-    color: var(--text-color);
-    font-weight: var(--font-semi-bold);
+    color: var(--title-color);
     font-size: var(--normal-font-size);
 }
 

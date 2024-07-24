@@ -2,7 +2,7 @@ function Experience(){
     return (
         <>
            <section className="experience section" id="experience">
-                        <h2 className="section-title">Experience</h2>
+                        <h2 className="section-title">...Experience</h2>
 
                         <div className="experience_container bd-grid">
                             <div className="experience_content">
