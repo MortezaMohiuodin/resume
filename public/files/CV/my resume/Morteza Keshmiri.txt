@@ -1,0 +1,64 @@
+Morteza Keshmiri
+Frontend Developer | Najaf, Iraq
+📧 Mortezakshmr@gmail.com | 🔗 Github.com/mortezakshmr | Skype: cid.4de0aba7352312cd
+
+SUMMARY
+Experienced Frontend Developer with over 7 years of software development expertise. Proficient in building client-side and server-side UI's, implementing modular design patterns, and skilled in Vue and React. Passionate about creating robust and user-friendly software solutions.
+
+SKILLS
+Frontend Technologies:
+
+HTML, CSS, JavaScript, TypeScript
+React, Vue, Next, Nuxt
+Tailwind, SCSS, BEM
+PWA, Ionic
+Backend Technologies:
+
+Node.js, Express
+GraphQL, RESTful APIs
+Redux
+Tools:
+
+Git, Webpack, Vite
+SEO Basics
+SHOWCASES
+🔗 Zirehapp.com - Description here
+🔗 Karsu.ir - Description here
+🔗 Bodobit.ir - Description here
+🔗 Honey.land - Description here
+🔗 Mom.ir - Description here
+🔗 Crm.signal.ir - Description here
+🔗 Drserita.com - Description here
+🔗 Signalads.com - Description here
+
+LANGUAGES
+
+Advanced English
+Native Arabic
+EDUCATION
+Qom University of Technology
+Bachelor's Degree in Mechanical Engineering
+
+EXPERIENCE
+
+Frontend Developer
+April 2022 - Jan 2024 | Karsu
+
+Developed fully responsive UI for a human resource management system with automation features.
+Translated business requirements into robust SaaS software.
+Created a custom calendar using Vue and moment.js.
+Frontend Developer
+July 2020 - Jan 2022 | Pioneer Games
+
+Built a marketplace for NFTs crypto tokens using web3 and blockchain technologies.
+Implemented a monorepo structure for code sharing and consistency.
+Frontend Developer
+July 2019 - Apr 2020 | Mom Fertility Center
+
+Designed and implemented CMS UI for the main website.
+Resolved critical SEO issues and optimized performance.
+Frontend Developer
+May 2017 - May 2019 | Signal Co
+
+Collaborated with cross-functional teams to implement pixel-perfect and SEO-optimized user interfaces.
+Mentored junior programmers and organized multiple projects effectively.

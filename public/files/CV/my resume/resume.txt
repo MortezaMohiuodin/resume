@@ -1,0 +1,82 @@
+Information
+Morteza Keshmiri
+Frontend Developer (Najaf, Iraq)
+Mortezakshmr@gmail.com ↗
+Github.com/mortezakshmr ↗
+Skype: cid.4de0aba7352312cd ↗
+
+SUMMARY
+Frontend software developer with strong
+proficiency in building and developing client
+side and server side UI's.
+I have solid understanding of implementing
+core principles of modular and componentbased design patterns.
+I have Strong proficiency with vue framework
+and react library.
+I am an expreianced programmer , working
+in software development for over 7 years.
+
+SKILLS
+HTML Css JS Typescript React Vue
+Next Nuxt Tailwind
+Node Redux Express Vite Webpack
+GraphQl Restful APIs Git Scss BEM
+PWA Ionic Seo Basics
+
+SHOWCASES
+🔗 zirehapp.com
+🔗 karsu.ir
+🔗 bodobit.ir
+🔗 honey.land
+🔗 mom.ir
+🔗 crm.signal.ir
+🔗 drserita.com
+🔗 signalads.com
+
+LANGUAGES
+Advanced English
+Native Arabic
+
+EDUCATION
+Qom University of Technology
+Mechanical Engineering (Bachelor's degree)
+
+EXPERIENCES
+Frontend developer
+April 2022 , Jan 2024 | Karsu
+› Built and developed fully responsive UI for a human resource
+management system with various subsystems and
+automation features.
+› Understanding and analyzing business requirements and
+translating them into robust , user friendly SaaS software.
+› Developed a custom rich-featured calendar using vue and
+moment.js
+
+Frontend developer
+July 2020 , Jan 2022 | Pioneer Games
+› Building a marketplace for NFTs crypto tokens , using web3
+and blockchaing technologies.
+› Implemented a monorepo structure for sharing code and add
+more consistency across projects
+
+Frontend developer
+July 2019 , Apr 2020 | Mom Fertility Center
+› Designed and implemented CMS UI for main website
+› Collaborated on resolving critical SEO issues and optimizing
+performance , using latest standard tools.
+
+Frontend developer
+May 2017 , May 2019 | Signal Co
+› Working closely with UX designers, backend developers,
+product managers and seo specialists to implement pixelperfect responsive and seo optimized user interfaces.
+› Implemented error tracking and monitoring for beta projects
+via Sentry.
+› Collaboration and continues knowledge sharing with team
+members and seniors. Consulating with expert coworkers for
+providing best solutions
+› Organisating , time management and balancing multiple
+concurrent projects.
+› Mentoring juniors and interns programmers, reviewing the
+code and providing suggestions.
+› Refactoring components and modules for improving
+reusability and reducing repetitive code.
